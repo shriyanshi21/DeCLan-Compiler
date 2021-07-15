@@ -4,7 +4,7 @@ DeCLan is based on the language [Oberon](http://people.inf.ethz.ch/wirth/Oberon/
 Oberon is a simple general-purpose programming language, descending from ALGOL, Pascal, and Modula.
 DeCLan corresponds to the sublanguage with no modules, arrays, records, pointers, case statements, sets, type declarations, or procedure variables.
 
-## Supported Syntax
+## Supported Syntax:
 
 ```
 letter = "A" | "B" | ... | "Z" | "a" | "b" | ... | "z".
